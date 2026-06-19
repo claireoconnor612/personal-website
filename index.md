@@ -6,14 +6,15 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Claire O'Connor
 {: .fs-9 }
 
-Welcome!
+PhD Student, University of Maryland
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+My research focuses on human-computer interaction, autism, communication, and AAC research.
+
+I am interested in understanding how autistic individuals and caregivers collaboratively adapt to one another's communication needs and how interdisciplinary teams can better support AAC system design.
 
 ---
 
