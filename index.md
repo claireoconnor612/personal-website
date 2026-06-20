@@ -15,8 +15,6 @@ Hello👋
 
 I'm Claire and I am a third year PhD student in the College of Information at University of Maryland, College Park. 
 
-My research focuses on human-computer interaction, autism, communication, and AAC research.
-
 I am interested in understanding how autistic individuals and caregivers collaboratively adapt to one another's communication needs and how interdisciplinary teams can better support AAC system design.
 
 ---
