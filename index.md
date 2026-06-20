@@ -1,16 +1,19 @@
 ---
-title: Claire O'Connor
+title: Home
 layout: home
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
 
-# Claire O'Connor
+
 {: .fs-9 }
 
-PhD Student, University of Maryland
+Hello👋
+
 {: .fs-6 .fw-300 }
+
+I'm Claire and I am a third year PhD student in the College of Information at University of Maryland, College Park. 
 
 My research focuses on human-computer interaction, autism, communication, and AAC research.
 
