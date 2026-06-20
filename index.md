@@ -9,9 +9,9 @@ permalink: /
 
 {: .fs-9 }
 
-Hello👋
-
 {: .fs-6 .fw-300 }
+
+Hello👋
 
 I'm Claire and I am a third year PhD student in the College of Information at University of Maryland, College Park. 
 
