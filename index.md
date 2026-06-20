@@ -21,7 +21,8 @@ I am interested in understanding how autistic individuals and caregivers collabo
 
 ## Updates
 
-* Volunteered at AAAI Conference
+* May 2026: Volunteered at AAAI-sponsered AIxAccessibility Conference at Gallaudet University
+* May 2026: Passed Phase I of Pre-Candidacy Review
 
 ## About the project
 
